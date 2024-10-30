@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```yaml
 name: Marvin Buß
 current_job: Full Stack Developer
-company: Schiller Automatisierungstechnik GmbH
+company: netgo Software GmbH
 
 fields_of_interests:
   [
